@@ -1,8 +1,8 @@
 # ML_with_Spark
 Predictive analytics with Spark
 
-This project implements a movie genre prediction model using Apache Spark.
-train.csv has movie summaries of around 31K movies along with their genres.
+This project implements a movie genre prediction model using Apache Spark.\n
+train.csv has movie summaries of around 31K movies along with their genres.\n
 test.csv has just plot summaries, on which genres are to be predicted.
 
 The task of predicting the genre is essentially a <bold>multi-label classification</bold> problem. 
